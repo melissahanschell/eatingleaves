@@ -41,3 +41,7 @@
 .carousel-font {
   color:#000;
 }
+
+.navbar {
+  background-color: rgba(255, 255, 255, .075);
+}
